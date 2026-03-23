@@ -1,6 +1,17 @@
-### Hi there, I'm Santiago Mendoza 👋
+# Hi, I'm [Tu Nombre] 👋
 
-* 👨🏽‍💻 Computer Systems Engineer and Full-Stack Developer
-* 🚀 Passionate about building scalable web applications
-* 🌱 Currently improving my skills in JavaScript, Angular, and backend development
-* 📫 Connect with me: https://www.linkedin.com/in/smendoza-dev
+Senior Fullstack Engineer with 7+ years of experience building scalable applications.
+
+## 🚀 Tech Stack
+- Frontend: Angular, TypeScript
+- Backend: Node.js, NestJS, Java, Spring Boot
+- Database: PostgreSQL, MySQL, Prisma
+- DevOps: Docker, Linux, CI/CD
+
+## 🧠 What I Do
+- Build scalable SaaS platforms
+- Design high-performance APIs
+- Optimize backend systems and databases
+- Develop complex frontend applications
+
+ Software Engineer / Fullstack / Backend Developer
